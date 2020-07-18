@@ -5,7 +5,7 @@ This package has getCardHash method for JUNO API (juno.com.br).
 
 ## 1. Require Juno.
 ```javascript
-const Juno = require('juno-node');
+const Juno = require('juno-payment-node');
 ```
 
 ## 2. Declare get card hash function 
