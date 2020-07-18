@@ -1,9 +1,12 @@
 {
   "name": "juno-payment-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Juno Payment API node wrapper based on JavaScript version.",
   "author": "info@pragmatismo.io",
   "main": "src/JunoDirectCheckout.js",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
