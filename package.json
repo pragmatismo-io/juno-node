@@ -1,5 +1,5 @@
 {
-  "name": "juno-node",
+  "name": "juno-payment-node",
   "version": "1.0.0",
   "description": "Juno Payment API node wrapper based on JavaScript version.",
   "author": "info@pragmatismo.io",
